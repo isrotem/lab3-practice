@@ -1,7 +1,8 @@
 * { box-sizing: border-box; }
-body { margin: 0; background: #0a1120; color: #e5edf7; font: 17px/1.5 system-ui, sans-serif; }
+body { margin: 0; background: #211236; color: #efe7fb; font: 17px/1.5 system-ui, sans-serif; }
 main { max-width: 850px; margin: 30px auto; padding: 0 20px; }
-header > p:first-child { color: #71e8ce; font-size: 12px; letter-spacing: .15em; }
-h1 { margin: 0; font-size: 40px; }
-#game { border: 1px solid #34445e; border-radius: 12px; overflow: hidden; }
+header > p:first-child { color: #5eead4; font-size: 12px; letter-spacing: .15em; }
+h1 { margin: 0; color: #c4a1f5; font-size: 40px; }
+#game { border: 1px solid #5eead4; border-radius: 12px; overflow: hidden; }
 canvas { display: block; }
+strong { color: #5eead4; }
